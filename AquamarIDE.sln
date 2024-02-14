@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquamarIDE", "AquamarIDE\AquamarIDE.csproj", "{AEE4DD58-DB68-4F13-9BBF-10B03582011B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AquamarIDEsetup", "AquamarIDEsetup\AquamarIDEsetup.vdproj", "{53A37543-8B5F-43E8-8A90-21B97A9D6172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE4DD58-DB68-4F13-9BBF-10B03582011B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE4DD58-DB68-4F13-9BBF-10B03582011B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE4DD58-DB68-4F13-9BBF-10B03582011B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE4DD58-DB68-4F13-9BBF-10B03582011B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A37543-8B5F-43E8-8A90-21B97A9D6172}.Debug|Any CPU.ActiveCfg = Debug
+		{53A37543-8B5F-43E8-8A90-21B97A9D6172}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E56AF13-29A0-4EBA-B14D-88FEC7C6D143}
+	EndGlobalSection
+EndGlobal
